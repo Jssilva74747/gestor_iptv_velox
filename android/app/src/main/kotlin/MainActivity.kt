@@ -1,0 +1,1 @@
+// MainActivity with Android V2 embedding
